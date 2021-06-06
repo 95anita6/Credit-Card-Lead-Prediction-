@@ -91,5 +91,5 @@ The problem at hand was solved following below approach:
 - Customer under region code RG268 have most customers who are not interested followed by RG254 and RG283 and customer under region code RG268 are more interested followed by RG283 and RG284
 - Customers with Acquisition Channel Code X1 tend to be most uninterested and X3 has more number of customers who would be interested. The population under X4 is very less
 - Not so much correlation among the numeric features
--Different customer groups (clusters)  having average age, vintage and account balance values were obtained that can be targeted
+- Different customer groups (clusters)  having average age, vintage and account balance values were obtained that can be targeted using Kmeans clustering technique
      
