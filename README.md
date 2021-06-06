@@ -13,7 +13,7 @@ Now, the bank is looking for your help in identifying customers that could show 
     • Customer details (gender, age, region etc.)
     • Details of his/her relationship with the bank (Channel_Code,Vintage, 'Avg_Asset_Value etc.)
 
-Data Summary:
+## Data Summary:
 The given train dataset has 245725 total records for customers and the given test dataset has 105312 records. The given information for customers are as below:
 - ID : Unique ID
 - Gender
@@ -45,7 +45,7 @@ Is_Active  :  ['No' 'Yes']
  
 The data contained null values for the column Credit_Product. The mean age was 43.85, mean vintage value 46.97 and the mean avg_account_balance was 1.128749e+06. 
 
-Brief Approach to the Problem:
+## Brief Approach to the Problem:
 
 The problem at hand was solved following below approach:
 
@@ -72,7 +72,7 @@ The problem at hand was solved following below approach:
 - XGB model was selected as the final model after the training and retraining different models and comapring the performance metrics.
 
 
-Inferences from data analysis:
+## Inferences from data analysis:
 
 - Customers who were more interested in the credit card are having more age than those who were not interested be it male or female
 
